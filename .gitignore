@@ -6,7 +6,6 @@
 *.dll
 *.ilk
 *.suo
-*.exe
 *.exe.manifest
 *.log
 *.res
